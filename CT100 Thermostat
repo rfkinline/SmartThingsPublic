@@ -121,16 +121,16 @@ metadata {
     
  
         standardTile("heatLevelDown", "device.heatingSetpoint", canChangeIcon: false, inactiveLabel: false, decoration: "flat") {
-                        state "heatLevelDown", label:'  ', action:"heatLevelDown", icon:"https://cdn.onlinewebfonts.com/svg/img_161671.png"
+                        state "heatLevelDown", label:'  ', action:"heatLevelDown", icon:"https://cdn.clipart.email/e1ece670e072fecd3d98d203ca2f2087_download-down-arrow-png-file-down-arrow-png-grey-png-image-with-_600-380.png"
         }
         standardTile("heatLevelUp", "device.heatingSetpoint", canChangeIcon: false, inactiveLabel: false, decoration: "flat") {
-                        state "heatLevelUp", label:'  ', action:"heatLevelUp", icon:"https://cdn.onlinewebfonts.com/svg/img_348427.png"
+                        state "heatLevelUp", label:'  ', action:"heatLevelUp", icon:"https://cdn.clipart.email/d9b6de897bd0cadca53682622ed2e185_arrow-up-gray-clip-art-at-clkercom-vector-clip-art-online-_298-189.png"
         }
         standardTile("coolLevelDown", "device.heatingSetpoint", canChangeIcon: false, inactiveLabel: false, decoration: "flat") {
-                        state "coolLevelDown", label:'  ', action:"coolLevelDown", icon:"https://cdn.onlinewebfonts.com/svg/img_161671.png"
+                        state "coolLevelDown", label:'  ', action:"coolLevelDown", icon:"https://cdn.clipart.email/e1ece670e072fecd3d98d203ca2f2087_download-down-arrow-png-file-down-arrow-png-grey-png-image-with-_600-380.png"
         }
         standardTile("coolLevelUp", "device.heatingSetpoint", canChangeIcon: false, inactiveLabel: false, decoration: "flat") {
-                        state "coolLevelUp", label:'  ', action:"coolLevelUp", icon:"https://cdn.onlinewebfonts.com/svg/img_348427.png"
+                        state "coolLevelUp", label:'  ', action:"coolLevelUp", icon:"https://cdn.clipart.email/d9b6de897bd0cadca53682622ed2e185_arrow-up-gray-clip-art-at-clkercom-vector-clip-art-online-_298-189.png"
         }
         
         /*
